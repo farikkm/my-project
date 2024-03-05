@@ -1,1 +1,3 @@
 "Hello user-3" 
+
+Changed by new-feature branch
